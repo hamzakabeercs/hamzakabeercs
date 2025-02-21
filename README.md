@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mian Hamza Kabeer
 - 👀 I’m interested in Ruby on rails
-- 🌱 I’m currently learning Ruby on rails & Javascript
+- 🌱 I’m currently working as Ruby on rails developer
 - 💞️ I’m looking to collaborate on ROR platform
 - 📫 How to reach me through email "hamzakabeercs@gmail.com" and phone "+923174231199"
 
